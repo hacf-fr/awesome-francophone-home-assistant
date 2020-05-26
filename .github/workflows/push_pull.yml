@@ -1,0 +1,15 @@
+name: Lint Awesome List
+on:
+  pull_request:
+
+jobs:
+  awesome-lint:
+    name: "lint: awesome-lint"
+    runs-on: ubuntu-latest
+    steps:
+      - name: "checkout repo"
+        uses: actions/checkout@v2.0.0
+        with:
+          fetch-depth: 0
+      - name: Test awesome-lint
+        uses: max/awesome-lint@v2.0.0
