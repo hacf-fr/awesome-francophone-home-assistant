@@ -2,6 +2,9 @@
 
 > Liste de ressources francophones et super utiles pour Home Assistant.
 
+_Si vous êtes à l'aise avec l'anglais n'hésitez pas à consulter [l'Awesome list
+Home Assistant](https://www.awesome-ha.com/) initiée et hebergé par @frenck._
+
 ## Contents
 
 - [Blogs](#blogs)
@@ -18,7 +21,7 @@
 
 ## Blogs
 
-- [Les Alexiens](https://www.lesalexiens.fr/) - Un bloq qui parle d'Alexia, d'object connecté et de dommotique avec Home Assistant.
+- [Les Alexiens](https://www.lesalexiens.fr/) - Un blog qui parle d'Alexia, d'object connecté et de dommotique avec Home Assistant.
 - [Blog d'Antoine Guilbert](https://www.antoineguilbert.fr/category/domotique/) - Objects connectés et domotique.
 - [HACF](https://hacf.fr) - Le blog de la communauté francophone avec de nombreux guides et articles en français.
 - [Projets DIY](https://projetsdiy.fr) - Plein de guide DIY avec beaucoup d'ESP, d'électronique, des raspberry et de la domotique.
@@ -56,7 +59,7 @@ _Vous trouverez dans cette section des moyens pour discuter entre francophones s
 
 ### HACF: Home Assistant Communauté Francophone
 
-HACF propose un grand nombre de type de contenu pour fédérer la communauté francophone des utilisateurs de Home Assistant en perpétuant ce qu'a initier Paradis Artificiels.
+HACF propose un grand nombre de type de contenu pour fédérer la communauté francophone des utilisateurs de Home Assistant en perpétuant ce qu'a initié Paradis Artificiels.
 
 - [Discord HACF](https://discord.gg/uybmhR)
 - [Forum HACF](https://forum.hacf.fr/)
