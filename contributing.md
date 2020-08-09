@@ -6,7 +6,7 @@ Veuillez noter que ce projet est liée à un [code de conduite des contributeurs
 
 ## Template pour un lien dans la liste
 
-Utilisez le template `[Nom du lien](https://url_du_lien) - Descriptif du lien.`
+Utilisez le template `[Nom_du_lien](url_du_lien) - Descriptif du lien.`
 
 ## Comment contribuer à la liste
 
