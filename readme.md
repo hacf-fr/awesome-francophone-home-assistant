@@ -27,7 +27,7 @@ Home Assistant](https://www.awesome-ha.com/) initiée et hebergé par @frenck._
 - [Projets DIY](https://projetsdiy.fr) - Plein de guide DIY avec beaucoup d'ESP, d'électronique, des raspberry et de la domotique.
 - [&lt;DEVOTICS/&gt;](https://devotics.fr/) - Blog domotique, objets connectés, nouvelles technologies, développement.
 - [figer](https://www.figer.com/) - Blog de guide et conseil en informatique, réseau et domotique.
-- [My Canaletto](https://www.canaletto.fr/) - Blog traitant en particulier d’une migration Jeedom vers HA.
+- [My Canaletto](https://www.canaletto.fr/) - Blog traitant en particulier d'une migration Jeedom vers HA.
 
 ## Tutos vidéos
 
