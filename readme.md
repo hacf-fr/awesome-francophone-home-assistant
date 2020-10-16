@@ -39,6 +39,7 @@ Home Assistant](https://www.awesome-ha.com/) initiée et hebergé par @frenck._
 _Certains d'entre nous partagent leur configuration pour inspirer les autres. Généralement en anglais les liens suivants vous présentent des configurations commentées en français._
 
 - [Romekilla](https://github.com/romquenin/home-assistant-config-fr) - Configuration hébergée sur GitHub très documentée. Attention dernière MAJ date de début 2019 !
+- [Oncleben31](https://github.com/oncleben31/home-assistant-config) - Configuration découpée en plusieurs fichiers et documentée en français et en anglais.
 
 ## Modules tiers utiles pour (ou par) des utilisateurs francophones
 
