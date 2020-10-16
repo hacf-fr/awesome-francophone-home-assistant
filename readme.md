@@ -81,7 +81,3 @@ Le contenu de Paradis Artificiels est particulier. Ca a été un des premiers f�
 ## Contribuer
 
 Vos contributions sont les bienvenues ! Commencez par lire les [bonnes pratiques](contributing.md) avant de proposer vos contributions.
-
-## Licence
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
