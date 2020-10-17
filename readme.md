@@ -27,7 +27,7 @@ Home Assistant](https://www.awesome-ha.com/) initiée et hebergé par @frenck._
 - [Projets DIY](https://projetsdiy.fr) - Plein de guide DIY avec beaucoup d'ESP, d'électronique, des raspberry et de la domotique.
 - [&lt;DEVOTICS/&gt;](https://devotics.fr/) - Blog domotique, objets connectés, nouvelles technologies, développement.
 - [figer](https://www.figer.com/) - Blog de guide et conseil en informatique, réseau et domotique.
-- [Tech Café](https://techcafe.fr/category/domotique-podcast-maison-connectee/) - Un podcast domotique généraliste avec une sensibilité Jeedom mais qui s'ouvre à HA avec un épisode spécial HA à venir.
+- [Tech Café](https://techcafe.fr/category/domotique-podcast-maison-connectee/) - Un podcast domotique généraliste avec une sensibilité Jeedom mais qui s'ouvre à Home Assistant.
 
 ## Tutos vidéos
 
