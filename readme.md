@@ -27,7 +27,7 @@ Home Assistant](https://www.awesome-ha.com/) initiée et hebergé par @frenck._
 - [Projets DIY](https://projetsdiy.fr) - Plein de guide DIY avec beaucoup d'ESP, d'électronique, des raspberry et de la domotique.
 - [&lt;DEVOTICS/&gt;](https://devotics.fr/) - Blog domotique, objets connectés, nouvelles technologies, développement.
 - [figer](https://www.figer.com/) - Blog de guide et conseil en informatique, réseau et domotique.
-- [A quoi ça sert](https://www.ca-sert-a-quoi.com/tag/domotique/) - Blog avec une section test de matériel domotique.
+- [Ça Sert À Quoi ?](https://www.ca-sert-a-quoi.com/tag/domotique/) - Un Blog de mise en situation des nouvelles technologies avec une section domotique.
 
 ## Tutos vidéos
 
