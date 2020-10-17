@@ -9,6 +9,7 @@ Home Assistant](https://www.awesome-ha.com/) initiée et hebergé par @frenck._
 
 - [Blogs](#blogs)
 - [Tutos vidéos](#tutos-vidéos)
+- [Podcasts](#podcasts)
 - [Configurations](#configurations)
 - [Modules tiers utiles pour (ou par) des utilisateurs francophones](#modules-tiers-utiles-pour-ou-par-des-utilisateurs-francophones)
   - [Custom Components](#custom-components)
@@ -27,13 +28,16 @@ Home Assistant](https://www.awesome-ha.com/) initiée et hebergé par @frenck._
 - [Projets DIY](https://projetsdiy.fr) - Plein de guide DIY avec beaucoup d'ESP, d'électronique, des raspberry et de la domotique.
 - [&lt;DEVOTICS/&gt;](https://devotics.fr/) - Blog domotique, objets connectés, nouvelles technologies, développement.
 - [figer](https://www.figer.com/) - Blog de guide et conseil en informatique, réseau et domotique.
-- [Tech Café](https://techcafe.fr/category/domotique-podcast-maison-connectee/) - Un podcast domotique généraliste avec une sensibilité Jeedom mais qui s'ouvre à Home Assistant.
 
 ## Tutos vidéos
 
 - [ArminasTV](https://www.youtube.com/channel/UCLoLYGnh66x9cMee-qBi3XQ) - Guides vidéos dont une aide au démarrage sur Home Assistant.
 - [e-2-nomy](https://www.youtube.com/channel/UCaSQ9Wl2KWUvQmTRV26O96Q/) - Des vidéos DIY orrientées maison autonome à base d'ESP et de Home Assistant.
 - [Paradis Artificiels](https://www.youtube.com/channel/UCbCJtFizTFNf4waPWPFAqcA) - De nombreuses videos à propos de Home Asssitant et de ces addons. Attention dernière MAJ date de début 2019 !
+
+## Podcasts
+
+- [Tech Café](https://techcafe.fr/category/domotique-podcast-maison-connectee/) - Un podcast domotique généraliste avec une sensibilité Jeedom mais qui s'ouvre à Home Assistant.
 
 ## Configurations
 
