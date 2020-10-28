@@ -30,6 +30,7 @@ Home Assistant](https://www.awesome-ha.com/) initiée et hebergé par @frenck._
 - [figer](https://www.figer.com/) - Blog de guide et conseil en informatique, réseau et domotique.
 - [Ça Sert À Quoi ?](https://www.ca-sert-a-quoi.com/tag/domotique/) - Un Blog de mise en situation des nouvelles technologies avec une section domotique.
 - [My Canaletto](https://www.canaletto.fr/) - Blog IT et domotique traitant en particulier d'une migration Jeedom vers Home Assistant.
+- [Présentation/Configuration de deCONZ](https://presentationdeconz.wordpress.com/) - Tutoriel pour la configuration de deCONZ (Passerelle universelle Zigbee).
 
 ## Tutos vidéos
 
