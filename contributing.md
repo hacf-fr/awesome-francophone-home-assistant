@@ -1,12 +1,12 @@
 # Instructions pour contribuer
 
-Veuillez noter que ce projet est liée à un [code de conduite des contributeurs](code-of-conduct.md). En participant à ce projet vous accepter  En participant à ce projet que vous acceptez de respecter ses termes.
+Veuillez noter que ce projet est liée à un [code de conduite des contributeurs](code-of-conduct.md). En participant à ce projet vous acceptez de respecter ses termes.
 
 ---
 
-## Template pour un lien dans la liste
+## Modèle pour un lien dans la liste
 
-Utilisez le template `[Nom_du_lien](url_du_lien) - Descriptif du lien.`
+Utilisez le modèle : `[Nom_du_lien](url_du_lien) - Descriptif du lien.`
 
 ## Comment contribuer à la liste
 
