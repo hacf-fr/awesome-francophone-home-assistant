@@ -5,7 +5,7 @@
 _Si vous êtes à l'aise avec l'anglais n'hésitez pas à consulter [l'Awesome list
 Home Assistant](https://www.awesome-ha.com/) initiée et hebergé par @frenck._
 
-## Contents
+## Sommaire
 
 - [Blogs](#blogs)
 - [Tutos vidéos](#tutos-vidéos)
@@ -30,6 +30,7 @@ Home Assistant](https://www.awesome-ha.com/) initiée et hebergé par @frenck._
 - [figer](https://www.figer.com/) - Blog de guide et conseil en informatique, réseau et domotique.
 - [Ça Sert À Quoi ?](https://www.ca-sert-a-quoi.com/tag/domotique/) - Un Blog de mise en situation des nouvelles technologies avec une section domotique.
 - [My Canaletto](https://www.canaletto.fr/) - Blog IT et domotique traitant en particulier d'une migration Jeedom vers Home Assistant.
+- [Présentation/Configuration de deCONZ](https://presentationdeconz.wordpress.com/) - Tutoriel pour la configuration de deCONZ (Passerelle universelle Zigbee).
 
 ## Tutos vidéos
 
@@ -51,18 +52,18 @@ _Certains d'entre nous partagent leur configuration pour inspirer les autres. G�
 
 ## Modules tiers utiles pour (ou par) des utilisateurs francophones
 
-_Home Assitant supporte dès la première installation de nombreux équipement ou services liés à la maison connecté. Vous pouvez compléter les intégrations disponibles avec des modules tiers._
+_Home Assitant supporte dès la première installation de nombreux équipement ou services liés à la maison connectée. Vous pouvez compléter les intégrations disponibles avec des modules tiers._
 
-### Custom Components
+### Intégrations Personnalisées (Custom Components)
 
 - [hassRenaultZE](https://github.com/epenet/hassRenaultZE) - Pour accéder aux infos de votre véhicule électrique Renault ZE comme la Zoé.
-- [Livebox Orange](https://github.com/Cyr-ius/hass-livebox-component) - Une integration pour accéder à certaine information de votre Livebox.
-- [HA-pool_pump](https://github.com/oncleben31/ha-pool_pump) - Un moyen de piloter la pompte de filtration de sa piscine.
+- [Livebox Orange](https://github.com/Cyr-ius/hass-livebox-component) - Une integration pour accéder à certaines informations de votre Livebox.
+- [HA-pool_pump](https://github.com/oncleben31/ha-pool_pump) - Un moyen de piloter la pompe de filtration de sa piscine.
 
-### Lovelace Custom cards
+### Cartes Personnalisées pour l'interface Lovelace (Lovelace Custom cards)
 
 - [Linky](https://github.com/royto/linky-card) - Une carte pour Lovelace vous permettant d'afficher les informations de votre compteur Linky.
-- [MétéoFrance](https://github.com/Imbuzi/meteo-france-weather-card) - Une carte pour Lovelace vous permettant d'afficher toutes les informations disponible avec l'intégration officielle Météo France (prévision, pluie à 1 heure, vigilance météo).
+- [MétéoFrance](https://github.com/Imbuzi/meteo-france-weather-card) - Une carte pour Lovelace vous permettant d'afficher toutes les informations disponibles avec l'intégration officielle Météo France (prévision, pluie à 1 heure, vigilance météo).
 
 ## Discussions et entraides
 
@@ -77,7 +78,7 @@ HACF propose un grand nombre de type de contenu pour fédérer la communauté fr
 
 ### Paradis Artificiels
 
-Le contenu de Paradis Artificiels est particulier. Ca a été un des premiers fédérateurs populaire de la communauté francophone de Home Assitant et nombreux d'entre nous en sont reconnaissants. Cependant nous n'avons plus aucune nouvelles depuis plus d'un an et les outils qu'il a mis en place ne peuvent plus être maintenus comme il faudrait.
+Le contenu de Paradis Artificiels est particulier. Ca a été un des premiers fédérateurs populaire de la communauté francophone de Home Assitant et nombreux d'entre nous en sont reconnaissants. Cependant nous n'avons plus aucunes nouvelles depuis début 2019 et les outils qu'il a mis en place ne peuvent plus être maintenus comme il le faudrait.
 
 - [Discord Paradis Artificiel](https://discord.gg/GPA6vd2)
 
