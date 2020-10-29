@@ -55,7 +55,7 @@ _Home Assitant supporte dès la première installation de nombreux équipement o
 
 ### Custom Components
 
-- [hassRenaultZE](https://github.com/epenet/hassRenaultZE) - Pour accéder aux infos de votre véhicule électrique Renault ZE comme la Zoé.
+- [hassRenaultZE](https://github.com/hacf-fr/hassRenaultZE) - Pour accéder aux infos de votre véhicule électrique Renault ZE comme la Zoé.
 - [Livebox Orange](https://github.com/Cyr-ius/hass-livebox-component) - Une integration pour accéder à certaine information de votre Livebox.
 - [HA-pool_pump](https://github.com/oncleben31/ha-pool_pump) - Un moyen de piloter la pompte de filtration de sa piscine.
 
