@@ -62,7 +62,7 @@ _Home Assitant supporte dès la première installation de nombreux équipement o
 ### Lovelace Custom cards
 
 - [Linky](https://github.com/royto/linky-card) - Une carte pour Lovelace vous permettant d'afficher les informations de votre compteur Linky.
-- [MétéoFrance](https://github.com/Imbuzi/meteo-france-weather-card) - Une carte pour Lovelace vous permettant d'afficher toutes les informations disponible avec l'intégration officielle Météo France (prévision, pluie à 1 heure, vigilance météo).
+- [MétéoFrance](https://github.com/hacf-fr/lovelace-meteofrance-weather-card) - Une carte pour Lovelace vous permettant d'afficher toutes les informations disponible avec l'intégration officielle Météo France (prévision, pluie à 1 heure, vigilance météo).
 
 ## Discussions et entraides
 
