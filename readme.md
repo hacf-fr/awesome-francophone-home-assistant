@@ -51,7 +51,7 @@ _Certains d'entre nous partagent leur configuration pour inspirer les autres. G�
 
 ## Modules tiers utiles pour (ou par) des utilisateurs francophones
 
-_Home Assitant supporte dès la première installation de nombreux équipement ou services liés à la maison connectée. Vous pouvez compléter les intégrations disponibles avec des modules tiers._
+_Home Assitant supporte dès la première installation de nombreux équipements ou services liés à la maison connectée. Vous pouvez compléter les intégrations disponibles avec des modules tiers._
 
 ### Intégrations Personnalisées (Custom Components)
 
@@ -77,7 +77,7 @@ HACF propose un grand nombre de type de contenu pour fédérer la communauté fr
 
 ### Paradis Artificiels
 
-Le contenu de Paradis Artificiels est particulier. Ca a été un des premiers fédérateurs populaire de la communauté francophone de Home Assitant et nombreux d'entre nous en sont reconnaissants. Cependant nous n'avons plus aucunes nouvelles depuis début 2019 et les outils qu'il a mis en place ne peuvent plus être maintenus comme il le faudrait.
+Le contenu de Paradis Artificiels est particulier. Ca a été un des premiers fédérateurs populaire de la communauté francophone de Home Assitant et nombreux d'entre nous en sont reconnaissants. Cependant nous n'avons plus aucune nouvelle depuis début 2019 et les outils qu'il a mis en place ne peuvent plus être maintenus comme il le faudrait.
 
 - [Discord Paradis Artificiel](https://discord.gg/GPA6vd2)
 
