@@ -18,7 +18,6 @@ Home Assistant](https://www.awesome-ha.com/) initiée et hebergé par @frenck._
   - [HACF: Home Assistant Communauté Francophone](#hacf-home-assistant-communauté-francophone)
   - [Paradis Artificiels](#paradis-artificiels)
   - [Autres](#autres)
-- [Contribuer](#contribuer)
 
 ## Blogs
 
