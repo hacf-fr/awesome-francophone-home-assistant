@@ -1,6 +1,6 @@
 # Awesome Francophone Home Assistant [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Liste de ressources francophones et super utiles pour Home Assistant.
+> Home Assistant est un système de domotique open source fonctionnant conçu pour fonctionner en local et respecter la vie privée.
 
 _Si vous êtes à l'aise avec l'anglais n'hésitez pas à consulter [l'Awesome list
 Home Assistant](https://www.awesome-ha.com/) initiée et hebergé par @frenck._
