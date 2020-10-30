@@ -18,7 +18,6 @@ Home Assistant](https://www.awesome-ha.com/) initiée et hebergé par @frenck._
   - [HACF: Home Assistant Communauté Francophone](#hacf-home-assistant-communauté-francophone)
   - [Paradis Artificiels](#paradis-artificiels)
   - [Autres](#autres)
-- [Contribuer](#contribuer)
 
 ## Blogs
 
@@ -88,6 +87,6 @@ Le contenu de Paradis Artificiels est particulier. Ca a été un des premiers f�
 - [Discord des Frères Poulains](https://lfp.yt/discord) - Un Discord bien plus large que la domotique orrienté DIY, mais avec des une section domotique, électronique.
 - [Groupe Home Assistant France](https://www.facebook.com/groups/HomeAssistantFrance/) - Un Groupe Facebook.
 
-## Contribuer
+## Contributing
 
 Vos contributions sont les bienvenues ! Commencez par lire les [bonnes pratiques](contributing.md) avant de proposer vos contributions.
