@@ -58,6 +58,7 @@ _Home Assitant supporte dès la première installation de nombreux équipements 
 - [hassRenaultZE](https://github.com/epenet/hassRenaultZE) - Pour accéder aux infos de votre véhicule électrique Renault ZE comme la Zoé.
 - [Livebox Orange](https://github.com/Cyr-ius/hass-livebox-component) - Une integration pour accéder à certaines informations de votre Livebox.
 - [HA-pool_pump](https://github.com/oncleben31/ha-pool_pump) - Un moyen de piloter la pompe de filtration de sa piscine.
+- [prixCarburant](https://github.com/max5962/prixCarburant-home-assistant) - Permet de récupérer les prix du carburant depuis le site gouvernemental français.
 
 ### Cartes Personnalisées pour l'interface Lovelace (Lovelace Custom cards)
 
