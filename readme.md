@@ -22,7 +22,7 @@ Home Assistant](https://www.awesome-ha.com/) initiée et hebergé par @frenck._
 ## Blogs
 
 - [HACF](https://hacf.fr) - Le blog de la communauté francophone avec de nombreux guides et articles en français.
-- [Les Alexiens](https://www.lesalexiens.fr/) - Un blog qui parle d'Alexa, d'object connecté et de dommotique avec Home Assistant.
+- [Les Alexiens](https://www.lesalexiens.fr/) - Un blog qui parle d'Alexa, d'object connecté et de domotique avec Home Assistant.
 - [Blog d'Antoine Guilbert](https://www.antoineguilbert.fr/category/domotique/) - Objects connectés et domotique.
 - [Projets DIY](https://projetsdiy.fr) - Plein de guide DIY avec beaucoup d'ESP, d'électronique, des raspberry et de la domotique.
 - [&lt;DEVOTICS/&gt;](https://devotics.fr/) - Blog domotique, objets connectés, nouvelles technologies, développement.
