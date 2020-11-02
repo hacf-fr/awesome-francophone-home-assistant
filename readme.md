@@ -7,6 +7,7 @@ Home Assistant](https://www.awesome-ha.com/) initiée et hebergé par @frenck._
 
 ## Contents
 
+<!--lint ignore awesome-toc-->
 - [Blogs](#blogs)
 - [Tutos vidéos](#tutos-vidéos)
 - [Podcasts](#podcasts)
