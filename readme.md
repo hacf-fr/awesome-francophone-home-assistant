@@ -88,6 +88,7 @@ Le contenu de Paradis Artificiels est particulier. Ca a été un des premiers f�
 - [Discord des Frères Poulains](https://lfp.yt/discord) - Un Discord bien plus large que la domotique orrienté DIY, mais avec des une section domotique, électronique.
 - [Groupe Home Assistant France](https://www.facebook.com/groups/HomeAssistantFrance/) - Un Groupe Facebook.
 
+<!--lint ignore awesome-toc-->
 ## Contribuer
 
 Vos contributions sont les bienvenues ! Commencez par lire les [bonnes pratiques](contributing.md) avant de proposer vos contributions.
