@@ -1,35 +1,37 @@
 # Awesome Francophone Home Assistant [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Liste de ressources francophones et super utiles pour Home Assistant.
+> Home Assistant est un système de domotique Open Source conçu pour fonctionner en local et respecter la vie privée.
 
 _Si vous êtes à l'aise avec l'anglais n'hésitez pas à consulter [l'Awesome list
 Home Assistant](https://www.awesome-ha.com/) initiée et hebergé par @frenck._
 
+<!-- Please don't translate "Contents" to stay compliant with Awesome rules-->
 ## Contents
 
+<!--lint ignore awesome-toc-->
 - [Blogs](#blogs)
 - [Tutos vidéos](#tutos-vidéos)
 - [Podcasts](#podcasts)
 - [Configurations](#configurations)
 - [Modules tiers utiles pour (ou par) des utilisateurs francophones](#modules-tiers-utiles-pour-ou-par-des-utilisateurs-francophones)
-  - [Custom Components](#custom-components)
-  - [Lovelace Custom cards](#lovelace-custom-cards)
+  - [Intégrations Personnalisées (Custom Components)](#intégrations-personnalisées-custom-components)
+  - [Cartes Personnalisées pour l'interface Lovelace (Lovelace Custom cards)](#cartes-personnalisées-pour-linterface-lovelace-lovelace-custom-cards)
 - [Discussions et entraides](#discussions-et-entraides)
   - [HACF: Home Assistant Communauté Francophone](#hacf-home-assistant-communauté-francophone)
   - [Paradis Artificiels](#paradis-artificiels)
   - [Autres](#autres)
-- [Contribuer](#contribuer)
 
 ## Blogs
 
 - [HACF](https://hacf.fr) - Le blog de la communauté francophone avec de nombreux guides et articles en français.
-- [Les Alexiens](https://www.lesalexiens.fr/) - Un blog qui parle d'Alexa, d'object connecté et de dommotique avec Home Assistant.
+- [Les Alexiens](https://www.lesalexiens.fr/) - Un blog qui parle d'Alexa, d'object connecté et de domotique avec Home Assistant.
 - [Blog d'Antoine Guilbert](https://www.antoineguilbert.fr/category/domotique/) - Objects connectés et domotique.
 - [Projets DIY](https://projetsdiy.fr) - Plein de guide DIY avec beaucoup d'ESP, d'électronique, des raspberry et de la domotique.
 - [&lt;DEVOTICS/&gt;](https://devotics.fr/) - Blog domotique, objets connectés, nouvelles technologies, développement.
 - [figer](https://www.figer.com/) - Blog de guide et conseil en informatique, réseau et domotique.
 - [Ça Sert À Quoi ?](https://www.ca-sert-a-quoi.com/tag/domotique/) - Un Blog de mise en situation des nouvelles technologies avec une section domotique.
 - [My Canaletto](https://www.canaletto.fr/) - Blog IT et domotique traitant en particulier d'une migration Jeedom vers Home Assistant.
+- [Présentation et guide d'utilisation de deCONZ](https://presentationdeconz.wordpress.com/) - Tutoriel pour la configuration de deCONZ (Passerelle universelle Zigbee).
 
 ## Tutos vidéos
 
@@ -51,15 +53,16 @@ _Certains d'entre nous partagent leur configuration pour inspirer les autres. G�
 
 ## Modules tiers utiles pour (ou par) des utilisateurs francophones
 
-_Home Assitant supporte dès la première installation de nombreux équipement ou services liés à la maison connecté. Vous pouvez compléter les intégrations disponibles avec des modules tiers._
+_Home Assitant supporte dès la première installation de nombreux équipements ou services liés à la maison connectée. Vous pouvez compléter les intégrations disponibles avec des modules tiers._
 
-### Custom Components
+### Intégrations Personnalisées (Custom Components)
 
-- [hassRenaultZE](https://github.com/hacf-fr/hassRenaultZE) - Pour accéder aux infos de votre véhicule électrique Renault ZE comme la Zoé.
-- [Livebox Orange](https://github.com/Cyr-ius/hass-livebox-component) - Une integration pour accéder à certaine information de votre Livebox.
-- [HA-pool_pump](https://github.com/oncleben31/ha-pool_pump) - Un moyen de piloter la pompte de filtration de sa piscine.
+- [hassRenaultZE](https://github.com/epenet/hassRenaultZE) - Pour accéder aux infos de votre véhicule électrique Renault ZE comme la Zoé.
+- [Livebox Orange](https://github.com/Cyr-ius/hass-livebox-component) - Une integration pour accéder à certaines informations de votre Livebox.
+- [HA-pool_pump](https://github.com/oncleben31/ha-pool_pump) - Un moyen de piloter la pompe de filtration de sa piscine.
+- [prixCarburant](https://github.com/max5962/prixCarburant-home-assistant) - Permet de récupérer les prix du carburant depuis le site gouvernemental français.
 
-### Lovelace Custom cards
+### Cartes Personnalisées pour l'interface Lovelace (Lovelace Custom cards)
 
 - [Linky](https://github.com/royto/linky-card) - Une carte pour Lovelace vous permettant d'afficher les informations de votre compteur Linky.
 - [MétéoFrance](https://github.com/hacf-fr/lovelace-meteofrance-weather-card) - Une carte pour Lovelace vous permettant d'afficher toutes les informations disponible avec l'intégration officielle Météo France (prévision, pluie à 1 heure, vigilance météo).
@@ -77,7 +80,7 @@ HACF propose un grand nombre de type de contenu pour fédérer la communauté fr
 
 ### Paradis Artificiels
 
-Le contenu de Paradis Artificiels est particulier. Ca a été un des premiers fédérateurs populaire de la communauté francophone de Home Assitant et nombreux d'entre nous en sont reconnaissants. Cependant nous n'avons plus aucune nouvelles depuis plus d'un an et les outils qu'il a mis en place ne peuvent plus être maintenus comme il faudrait.
+Le contenu de Paradis Artificiels est particulier. Ca a été un des premiers fédérateurs populaire de la communauté francophone de Home Assitant et nombreux d'entre nous en sont reconnaissants. Cependant nous n'avons plus aucune nouvelle depuis début 2019 et les outils qu'il a mis en place ne peuvent plus être maintenus comme il le faudrait.
 
 - [Discord Paradis Artificiel](https://discord.gg/GPA6vd2)
 
