@@ -5,11 +5,11 @@
 _Si vous êtes à l'aise avec l'anglais n'hésitez pas à consulter [l'Awesome list
 Home Assistant](https://www.awesome-ha.com/) initiée et hebergé par @frenck._
 
-Les anciens liens devenus obsolètes sont conservés dans les [archives](./archives.md)
+Les anciens liens devenus obsolètes sont conservés dans les [archives](archives.md)
 
+<!--lint disable awesome-toc-->
 ## Table des matières
 
-<!--lint ignore awesome-toc-->
 - [Blogs](#blogs)
 - [Tutos vidéos](#tutos-vidéos)
 - [Podcasts](#podcasts)
