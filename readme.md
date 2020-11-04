@@ -37,7 +37,7 @@ Home Assistant](https://www.awesome-ha.com/) initiée et hebergé par @frenck._
 
 - [ArminasTV](https://www.youtube.com/channel/UCLoLYGnh66x9cMee-qBi3XQ) - Guides vidéos dont une aide au démarrage sur Home Assistant.
 - [e-2-nomy](https://www.youtube.com/channel/UCaSQ9Wl2KWUvQmTRV26O96Q/) - Des vidéos DIY orrientées maison autonome à base d'ESP et de Home Assistant.
-- [Paradis Artificiels](https://www.youtube.com/channel/UCbCJtFizTFNf4waPWPFAqcA) - De nombreuses videos à propos de Home Asssitant et de ces addons. Attention dernière MAJ date de début 2019 !
+- [Paradis Artificiels](https://www.youtube.com/channel/UCbCJtFizTFNf4waPWPFAqcA) - De nombreuses videos à propos de Home Asssitant et de ses addons. Attention dernière MAJ date de début 2019 !
 - [Journal de Thomas](https://www.youtube.com/channel/UCRJE6Yb_R3Xei-QGcy_Qwhw) - Vidéos d'un passionné sur différentes solutions domotique dont les plus récentes traitent de Home Assistant.
 
 ## Podcasts
