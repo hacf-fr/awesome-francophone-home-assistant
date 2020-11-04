@@ -27,7 +27,8 @@ _Home Assitant supporte dès la première installation de nombreux équipements 
 
 ### Cartes Personnalisées pour l'interface Lovelace (Lovelace Custom cards)
 
-- [Linky](https://github.com/royto/linky-card) - Une carte pour Lovelace vous permettant d'afficher les informations de votre compteur Linky.
+- [Linky](https://github.com/royto/linky-card) - Une carte pour Lovelace vous permettant d'afficher les informations de votre compteur Linky. Obsolète depuis que l'intégration
+officielle est devenue elle aussi obsolète.
 
 
 # Discussions et entraides
