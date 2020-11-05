@@ -1,14 +1,16 @@
+<!--lint disable awesome-toc-->
 # Awesome Francophone Home Assistant [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Home Assistant est un système de domotique Open Source conçu pour fonctionner en local et respecter la vie privée.
 
-_Si vous êtes à l'aise avec l'anglais n'hésitez pas à consulter [l'Awesome list
-Home Assistant](https://www.awesome-ha.com/) initiée et hebergé par @frenck._
+Si vous êtes à l'aise avec l'anglais, n'hésitez pas à consulter [l'Awesome list
+Home Assistant](https://www.awesome-ha.com/) initiée et hebergée par @frenck.
 
-<!-- Please don't translate "Contents" to stay compliant with Awesome rules-->
-## Contents
+Les anciens liens devenus obsolètes sont conservés dans les [archives](archives.md)
 
-<!--lint ignore awesome-toc-->
+## Table des matières
+
+<!--lint disable awesome-list-item-->
 - [Blogs](#blogs)
 - [Tutos vidéos](#tutos-vidéos)
 - [Podcasts](#podcasts)
@@ -20,6 +22,8 @@ Home Assistant](https://www.awesome-ha.com/) initiée et hebergé par @frenck._
   - [HACF: Home Assistant Communauté Francophone](#hacf-home-assistant-communauté-francophone)
   - [Paradis Artificiels](#paradis-artificiels)
   - [Autres](#autres)
+<!--lint enable awesome-list-item-->
+
 
 ## Blogs
 
@@ -37,7 +41,6 @@ Home Assistant](https://www.awesome-ha.com/) initiée et hebergé par @frenck._
 
 - [ArminasTV](https://www.youtube.com/channel/UCLoLYGnh66x9cMee-qBi3XQ) - Guides vidéos dont une aide au démarrage sur Home Assistant.
 - [e-2-nomy](https://www.youtube.com/channel/UCaSQ9Wl2KWUvQmTRV26O96Q/) - Des vidéos DIY orrientées maison autonome à base d'ESP et de Home Assistant.
-- [Paradis Artificiels](https://www.youtube.com/channel/UCbCJtFizTFNf4waPWPFAqcA) - De nombreuses videos à propos de Home Asssitant et de ses addons. Attention dernière MAJ date de début 2019 !
 - [Journal de Thomas](https://www.youtube.com/channel/UCRJE6Yb_R3Xei-QGcy_Qwhw) - Vidéos d'un passionné sur différentes solutions domotique dont les plus récentes traitent de Home Assistant.
 
 ## Podcasts
@@ -48,7 +51,6 @@ Home Assistant](https://www.awesome-ha.com/) initiée et hebergé par @frenck._
 
 _Certains d'entre nous partagent leur configuration pour inspirer les autres. Généralement en anglais les liens suivants vous présentent des configurations commentées en français._
 
-- [Romekilla](https://github.com/romquenin/home-assistant-config-fr) - Configuration hébergée sur GitHub très documentée. Attention dernière MAJ date de début 2019 !
 - [Oncleben31](https://github.com/oncleben31/home-assistant-config) - Configuration découpée en plusieurs fichiers et documentée en français et en anglais.
 
 ## Modules tiers utiles pour (ou par) des utilisateurs francophones
@@ -64,7 +66,6 @@ _Home Assitant supporte dès la première installation de nombreux équipements 
 
 ### Cartes Personnalisées pour l'interface Lovelace (Lovelace Custom cards)
 
-- [Linky](https://github.com/royto/linky-card) - Une carte pour Lovelace vous permettant d'afficher les informations de votre compteur Linky.
 - [MétéoFrance](https://github.com/hacf-fr/lovelace-meteofrance-weather-card) - Une carte pour Lovelace vous permettant d'afficher toutes les informations disponibles avec l'intégration officielle Météo France (prévision, pluie à 1 heure, vigilance météo).
 
 ## Discussions et entraides
@@ -77,12 +78,6 @@ HACF propose un grand nombre de type de contenu pour fédérer la communauté fr
 
 - [Discord HACF](https://discord.gg/uybmhR)
 - [Forum HACF](https://forum.hacf.fr/)
-
-### Paradis Artificiels
-
-Le contenu de Paradis Artificiels est particulier. Ca a été un des premiers fédérateurs populaire de la communauté francophone de Home Assitant et nombreux d'entre nous en sont reconnaissants. Cependant nous n'avons plus aucune nouvelle depuis début 2019 et les outils qu'il a mis en place ne peuvent plus être maintenus comme il le faudrait.
-
-- [Discord Paradis Artificiel](https://discord.gg/GPA6vd2)
 
 ### Autres
 
