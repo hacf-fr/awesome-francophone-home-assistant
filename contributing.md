@@ -18,6 +18,16 @@ Voici un guide pas à pas pour contribuer à cette liste:
 3. Vous pouvez éditer le contenu du fichier dans votre navigateur. Assurez vous de suivre les bonnes pratiques ci-dessus. Le fichier utilise le language [GitHub Flavored Markdown]
 4. Indiquez dans le formulaire de bas de page pourquoi vous proposez ces changements et cliquez sur "Propose file change": <img width="937" alt="Capture d’écran 2020-08-07 à 09 33 22" src="https://user-images.githubusercontent.com/93244/89623492-fb3c1680-d894-11ea-8d38-b98ac77ac67c.png">
 5. Envoyez votre Pull Request.
+6. Attendez une relecture et répondez aux éventuelles demandes de modification.
+
+## Pour tester la génération du site static
+
+Cette Awesome list est utilisée pour générer un site web static à l'aide de [Mkdocs](https://www.mkdocs.org/).
+Pour tester en local la génération vous avez besoin d'installer [nox](https://nox.thea.codes/en/stable/) au préalable.
+Ensuite nox s'occupe d'installer toutes les dépendances nécessaires
+dans un environnement virtuel:
+
+`$ nox -s docs`
 
 
 Merci pour votre contribution.
