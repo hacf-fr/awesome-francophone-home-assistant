@@ -1,15 +1,16 @@
+<!--lint disable awesome-toc-->
 # Awesome Francophone Home Assistant [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Home Assistant est un système de domotique Open Source conçu pour fonctionner en local et respecter la vie privée.
 
-_Si vous êtes à l'aise avec l'anglais n'hésitez pas à consulter [l'Awesome list
-Home Assistant](https://www.awesome-ha.com/) initiée et hebergé par @frenck._
+Si vous êtes à l'aise avec l'anglais, n'hésitez pas à consulter [l'Awesome list
+Home Assistant](https://www.awesome-ha.com/) initiée et hebergée par @frenck.
 
 Les anciens liens devenus obsolètes sont conservés dans les [archives](archives.md)
 
-<!--lint disable awesome-toc-->
 ## Table des matières
 
+<!--lint disable awesome-list-item-->
 - [Blogs](#blogs)
 - [Tutos vidéos](#tutos-vidéos)
 - [Podcasts](#podcasts)
@@ -21,6 +22,8 @@ Les anciens liens devenus obsolètes sont conservés dans les [archives](archive
   - [HACF: Home Assistant Communauté Francophone](#hacf-home-assistant-communauté-francophone)
   - [Paradis Artificiels](#paradis-artificiels)
   - [Autres](#autres)
+<!--lint enable awesome-list-item-->
+
 
 ## Blogs
 
