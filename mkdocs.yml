@@ -52,16 +52,22 @@ plugins:
   - simple:
 
 # Extensions
+# pymdownx.slugs.gfm needed to have the same behavior in static generated website
+# and in GitHub for TOC anchor when title have unicode characters.
+#
+# mdx_truly_sane_lists to ensure the rendering of the nested bullet list.
 markdown_extensions:
   - toc:
       permalink: true
+      slugify: !!python/name:pymdownx.slugs.gfm
   - pymdownx.betterem:
       smart_enable: all
+  - mdx_truly_sane_lists
 
 # The pages to serve
 nav:
   - "La Liste": README.md
-  - "Archives": archives.md
+  - "Les Archives": archives.md
   - "Contribuer": CONTRIBUTING.md
   - "Code de conduite": code-of-conduct.md
 
