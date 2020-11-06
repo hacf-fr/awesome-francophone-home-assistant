@@ -22,5 +22,6 @@ def docs(session: Session) -> None:
 @nox.session(name="docs-deploy")
 def docs_deploy(session: Session) -> None:
     """Deploy the documentation on Github Pages."""
+    args = session.posargs
     session.install("-r", "docs/requirements.txt")
-    session.run("mkdocs", "gh-deploy")
+    session.run("mkdocs", "gh-deploy", *args)
