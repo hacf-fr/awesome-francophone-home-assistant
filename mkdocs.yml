@@ -1,0 +1,67 @@
+# Project information
+site_name: Awesome Francophone Home Assistant
+site_url: "https://hacf-fr.github.io/awesome-francophone-home-assistant/"
+site_description: "Une liste de liens super utiles pour Home Assistant en français."
+site_author: "HACF"
+copyright: "Copyright 2020 - HACF. Creative Commons Zero v1.0 Universal."
+
+# Repository
+repo_url: "https://github.com/hacf-fr/awesome-francophone-home-assistant/"
+edit_uri: ""
+
+# Theme
+theme:
+  name: material
+  language: fr
+  palette:
+    primary: white
+    accent: indigo
+  logo: "https://hacf.fr/wp-content/uploads/logo@2x.png"
+  features:
+    - navigation.tabs
+
+# Customization
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: "https://github.com/hacf-fr"
+      name: "L'organisation HACF sur GitHub"
+    - icon: fontawesome/brands/discourse
+      link: "https://forum.hacf.fr/"
+      name: "Le forum HACF"
+    - icon: fontawesome/brands/discord
+      link: "https://discord.gg/PaZFEjX"
+      name: "Le Discord HACF"
+    - icon: fontawesome/brands/wordpress
+      link: "https://www.hacf.fr"
+      name: "Le site de HACF"
+    - icon: fontawesome/brands/twitter
+      link: "https://twitter.com/hacf_fr"
+      name: "HACF sur Twitter"
+    - icon: fontawesome/brands/facebook
+      link: "https://www.facebook.com/hacf.fr"
+      name: "HACF sur Facebook"
+    - icon: fontawesome/brands/youtube
+      link: "https://www.youtube.com/channel/UCx4cKKRf1GW1AVQhtNU_3iw"
+      name: "HACF sur YouTube"
+
+# Plugins
+plugins:
+  - search:
+      lang: fr
+  - simple:
+
+# Extensions
+markdown_extensions:
+  - toc:
+      permalink: true
+  - pymdownx.betterem:
+      smart_enable: all
+
+# The pages to serve
+nav:
+  - "La Liste": README.md
+  - "Archives": archives.md
+  - "Contribuer": CONTRIBUTING.md
+  - "Code de conduite": code-of-conduct.md
+

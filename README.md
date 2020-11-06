@@ -24,7 +24,6 @@ Les anciens liens devenus obsolètes sont conservés dans les [archives](archive
   - [Autres](#autres)
 <!--lint enable awesome-list-item-->
 
-
 ## Blogs
 
 - [HACF](https://hacf.fr) - Le blog de la communauté francophone avec de nombreux guides et articles en français.
@@ -87,4 +86,4 @@ HACF propose un grand nombre de type de contenu pour fédérer la communauté fr
 
 ## Contribuer
 
-Vos contributions sont les bienvenues ! Commencez par lire les [bonnes pratiques](contributing.md) avant de proposer vos contributions.
+Vos contributions sont les bienvenues ! Commencez par lire les [bonnes pratiques](CONTRIBUTING.md) avant de proposer vos contributions.
