@@ -5,6 +5,7 @@ import shutil
 import nox
 from nox.sessions import Session
 
+
 @nox.session
 def docs(session: Session) -> None:
     """Build the documentation."""
