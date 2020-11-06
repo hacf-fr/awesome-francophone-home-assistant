@@ -15,7 +15,7 @@ jobs:
       - run: |
           pip install --constraint=.github/workflows/constraints.txt pip
           pip install --constraint=.github/workflows/constraints.txt nox
-      - run: nox --force-color --session=docs-deploy
+      - run: nox --force-color --session=docs-deploy -- --force
       - uses: actions/upload-artifact@v2
         with:
           name: docs
