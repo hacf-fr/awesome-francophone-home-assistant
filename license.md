@@ -11,11 +11,17 @@ C'est pour ces finalités et motivations, ainsi que pour d'autres, et sans atten
 1. **Droit d'Auteur et Droits Voisins.** Il est possible qu'une Œuvre mise à disposition sous CC0 soit protégée par des droits d'auteur et des droits voisins (« Droit d'Auteur et Droits Voisins »). Le Droit d'Auteur et les Droits Voisins comportent, sans s'y limiter, les droits suivants :
 
     1. Le droit de reproduire, adapter, distribuer, interpréter, représenter, communiquer et traduire une Œuvre ;
+
     2. Les droits moraux détenus par le ou les auteur(s) originel(s) et/ou le ou les interprète(s) ;
+
     3. Les droits à la vie privée et à l'image des personnes représentées dans une Œuvre ;
+
     4. Le droit de la concurrence déloyale à l'égard d'une Œuvre, soumis aux limitations prévues dans le paragraphe 4(a) ci-dessous ;
+
     5. Les droits protégeant l'extraction, la diffusion, l'utilisation et la réutilisation des données contenues dans une Œuvre ;
+
     6. Les droits relatifs aux bases de données (tels qu'ils découlent de la Directive 96/9/CE du Parlement Européen et du Conseil du 11 mars 1996 concernant la protection juridique des bases de données, ainsi que de toute transposition au niveau national, y compris de toute version amendée ou ultérieure de cette directive) ; et
+
     7. Tous autres droits similaires, équivalents ou correspondants à travers le monde, fondés sur toute loi ou traité en vigueur, et toute transposition nationale de ceux-ci.
 
 2. **Renonciation.** Dans la mesure du possible et sans enfreindre la loi en vigueur, le Déclarant affirme par la présente céder, abandonner, et renoncer ouvertement, pleinement, définitivement, irrévocablement et sans conditions à tous ses Droits d'Auteur et Droits Voisins, ainsi qu'à toute prétention, recours et possibilités d'action judiciaire, qu'ils soient à cet instant connus ou inconnus (y compris les prétentions, recours et possibilités d'action judiciaire qui seraient associés ou à naître), sur l'Œuvre, (i) partout dans le monde, (ii) pour la durée maximale prévue par les lois ou traités en vigueur (y compris les prolongations futures de cette durée), (iii) sur n'importe quel support existant ou futur et quel que soit le nombre de copies, et (iv) pour toute finalité quelle qu’elle soit, y compris, et sans réserve, les finalités commerciales, publicitaires ou promotionnelles (la « Renonciation »). La Renonciation est faite au bénéfice de chaque membre du public et au détriment des héritiers et successeurs du Déclarant, avec la ferme intention que cette Renonciation ne soit pas soumise à révocation, annulation, résiliation, interruption, ou de tout autre recours juridique ou judiciaire susceptible de perturber la jouissance paisible de l'Œuvre par le public telle que prévue par la Déclaration d'Intention du Déclarant.
@@ -25,8 +31,11 @@ C'est pour ces finalités et motivations, ainsi que pour d'autres, et sans atten
 4. **Limitations et Avertissements.**
 
     1. Aucun droit sur une marque ou brevet détenu par le Déclarant n'est cédé, abandonné, transmis, mis sous licence ou affecté d'une quelconque manière par le présent document.
+    
     2. Le Déclarant met à disposition l'Œuvre en l'état, sans déclaration ou garantie de quelque nature que ce soit concernant l'Œuvre, qu'elle soit explicite, implicite, réglementaire ou autre, y compris, et sans réserves, les garanties de titre, de qualité marchande, d'exactitude, d'adéquation à une fin particulière, d'absence de contrefaçon, d'erreurs, qu'elles soient ou non susceptibles d'être découvertes, de vices cachés ou apparents, dans la mesure de ce que permet la loi en vigueur.
+    
     3. Le Déclarant décline toute responsabilité d'acquérir les droits d'autres personnes qui seraient susceptible de s'appliquer à l'Œuvre ou à toute utilisation de celle-ci, y compris, et sans limitation, les Droits d'Auteur et Droits Voisins de toute personne sur l'Œuvre. En outre, le Déclarant décline toute responsabilité sur l'obtention de consentements, autorisations et autres droits requis pour toute utilisation de l'Œuvre.
+    
     4. Le Déclarant comprend et reconnaît que Creative Commons n'est pas partie à ce document et n'a aucun devoir ni obligation à l'égard de CC0 ou de l'utilisation de l'Œuvre.
 
 Pour plus d'information, merci de consulter <https://creativecommons.org/publicdomain/zero/1.0>
