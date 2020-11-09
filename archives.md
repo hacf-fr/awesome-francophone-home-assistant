@@ -1,4 +1,4 @@
-# Awesome Francophone Home Assistant - Archives [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Francophone Home Assistant - Archives
 
 > Ressources utiles mais obsolètes francophones au sujet de Home Assistant
 
