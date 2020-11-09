@@ -32,7 +32,7 @@ Les anciens liens devenus obsolètes sont conservés dans les [archives](archive
 - [Projets DIY](https://projetsdiy.fr) - Plein de guide DIY avec beaucoup d'ESP, d'électronique, des raspberry et de la domotique.
 - [&lt;DEVOTICS/&gt;](https://devotics.fr/) - Blog domotique, objets connectés, nouvelles technologies, développement.
 - [figer](https://www.figer.com/) - Blog de guide et conseil en informatique, réseau et domotique.
-- [Ça Sert À Quoi ?](https://www.ca-sert-a-quoi.com/tag/domotique/) - Un Blog de mise en situation des nouvelles technologies avec une section domotique.
+- [Ça Sert À Quoi ?](https://www.ca-sert-a-quoi.com/category/domotique/) - Un Blog de mise en situation des nouvelles technologies avec une section domotique.
 - [My Canaletto](https://www.canaletto.fr/) - Blog IT et domotique traitant en particulier d'une migration Jeedom vers Home Assistant.
 - [Présentation et guide d'utilisation de deCONZ](https://presentationdeconz.wordpress.com/) - Tutoriel pour la configuration de deCONZ (Passerelle universelle Zigbee).
 
