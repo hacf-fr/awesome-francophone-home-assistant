@@ -39,7 +39,7 @@ dans un environnement virtuel:
 Cette commande a deux comportements:
 
 - En mode interactif (typiquement quand vous lancez la commande dans votre terminal),
-  il génère le contenu du site statique
-  et lance un serveur pour la consulter à l'aide de son navigateur en consultant l'URL `http://127.0.0.1:8000/`
+  elle génère le contenu du site statique
+  et lance un serveur pour le consulter à l'aide de son navigateur en consultant l'URL `http://127.0.0.1:8000/`
 - En mode non-interactif (dans un script de _Conitnuous Integration_ par exemple),
-  il génère le contenu du site statique dans le répertoire `site`.
+  elle génère le contenu du site statique dans le répertoire `site`.
