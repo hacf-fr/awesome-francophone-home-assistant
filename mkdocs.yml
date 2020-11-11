@@ -13,6 +13,7 @@ edit_uri: ""
 theme:
   name: material
   language: fr
+  favicon: images/favicon-32x32.png
   palette:
     primary: white
     accent: indigo
