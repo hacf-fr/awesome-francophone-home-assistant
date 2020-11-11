@@ -14,8 +14,9 @@ theme:
   name: material
   language: fr
   palette:
+    scheme: preference
     primary: white
-    accent: indigo
+    accent: red
   logo: "https://hacf.fr/wp-content/uploads/logo@2x.png"
   features:
     - navigation.tabs
