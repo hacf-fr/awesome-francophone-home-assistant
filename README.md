@@ -67,6 +67,12 @@ _Home Assitant supporte dès la première installation de nombreux équipements 
 
 - [MétéoFrance](https://github.com/hacf-fr/lovelace-meteofrance-weather-card) - Une carte pour Lovelace vous permettant d'afficher toutes les informations disponibles avec l'intégration officielle Météo France (prévision, pluie à 1 heure, vigilance météo).
 
+## Faites le vous même
+
+_Vous trouverez dans cette section des tutos pour des montages à faire soi même._
+
+- [Alimentation autonome solaire pour petit projet életronique](https://lofurol.fr/joomla/electronique/143-alimentation-autonome-de-petits-projets-electroniques)
+
 ## Discussions et entraides
 
 _Vous trouverez dans cette section des moyens pour discuter entre francophones sur Discord, Facebook ou sur des forums._
