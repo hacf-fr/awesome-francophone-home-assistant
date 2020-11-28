@@ -18,6 +18,7 @@ Les anciens liens devenus obsolètes sont conservés dans les [archives](archive
 - [Modules tiers utiles pour (ou par) des utilisateurs francophones](#modules-tiers-utiles-pour-ou-par-des-utilisateurs-francophones)
   - [Intégrations Personnalisées (Custom Components)](#intégrations-personnalisées-custom-components)
   - [Cartes Personnalisées pour l'interface Lovelace (Lovelace Custom cards)](#cartes-personnalisées-pour-linterface-lovelace-lovelace-custom-cards)
+- [Faites le vous même](#faites-le-vous-même)
 - [Discussions et entraides](#discussions-et-entraides)
   - [HACF: Home Assistant Communauté Francophone](#hacf-home-assistant-communauté-francophone)
   - [Paradis Artificiels](#paradis-artificiels)
