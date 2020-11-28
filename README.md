@@ -18,6 +18,7 @@ Les anciens liens devenus obsolètes sont conservés dans les [archives](archive
 - [Modules tiers utiles pour (ou par) des utilisateurs francophones](#modules-tiers-utiles-pour-ou-par-des-utilisateurs-francophones)
   - [Intégrations Personnalisées (Custom Components)](#intégrations-personnalisées-custom-components)
   - [Cartes Personnalisées pour l'interface Lovelace (Lovelace Custom cards)](#cartes-personnalisées-pour-linterface-lovelace-lovelace-custom-cards)
+- [Faites le vous même](#faites-le-vous-même)
 - [Discussions et entraides](#discussions-et-entraides)
   - [HACF: Home Assistant Communauté Francophone](#hacf-home-assistant-communauté-francophone)
   - [Paradis Artificiels](#paradis-artificiels)
@@ -66,6 +67,12 @@ _Home Assitant supporte dès la première installation de nombreux équipements 
 ### Cartes Personnalisées pour l'interface Lovelace (Lovelace Custom cards)
 
 - [MétéoFrance](https://github.com/hacf-fr/lovelace-meteofrance-weather-card) - Une carte pour Lovelace vous permettant d'afficher toutes les informations disponibles avec l'intégration officielle Météo France (prévision, pluie à 1 heure, vigilance météo).
+
+## Faites le vous même
+
+_Vous trouverez dans cette section des tutos pour des montages à faire soi même._
+
+- [Alimentation autonome solaire pour petit projet électronique](https://lofurol.fr/joomla/electronique/143-alimentation-autonome-de-petits-projets-electroniques) - Guide pour alimenter un microcontrôleur avec une batterie et un panneau solaire.
 
 ## Discussions et entraides
 
