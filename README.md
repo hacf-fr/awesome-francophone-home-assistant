@@ -72,7 +72,7 @@ _Home Assitant supporte dès la première installation de nombreux équipements 
 
 _Vous trouverez dans cette section des tutos pour des montages à faire soi même._
 
-- [Alimentation autonome solaire pour petit projet életronique](https://lofurol.fr/joomla/electronique/143-alimentation-autonome-de-petits-projets-electroniques)
+- [Alimentation autonome solaire pour petit projet électronique](https://lofurol.fr/joomla/electronique/143-alimentation-autonome-de-petits-projets-electroniques) - Guide pour alimenter un microcontrôleur avec une batterie et un panneau solaire.
 
 ## Discussions et entraides
 
