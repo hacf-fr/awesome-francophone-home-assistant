@@ -1,6 +1,8 @@
 name: Lint Awesome List
 on:
   push:
+    branches:
+      - main
   pull_request:
   schedule:
     - cron: 0 12 * * *
