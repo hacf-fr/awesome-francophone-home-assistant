@@ -36,6 +36,7 @@ Les anciens liens devenus obsolètes sont conservés dans les [archives](archive
 - [Ça Sert À Quoi ?](https://www.ca-sert-a-quoi.com/category/domotique/) - Un Blog de mise en situation des nouvelles technologies avec une section domotique.
 - [My Canaletto](https://www.canaletto.fr/) - Blog IT et domotique traitant en particulier d'une migration Jeedom vers Home Assistant.
 - [Présentation et guide d'utilisation de deCONZ](https://presentationdeconz.wordpress.com/) - Tutoriel pour la configuration de deCONZ (Passerelle universelle Zigbee).
+- [Faire soi-même](https://faire-ca-soi-meme.fr/) - Plein de hack, projet, tuto, technologie très bien expliqué, pas mal d'articles sur la Zigate.
 
 ## Tutos vidéos
 
