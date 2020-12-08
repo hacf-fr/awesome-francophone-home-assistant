@@ -73,7 +73,7 @@ _Home Assitant supporte dès la première installation de nombreux équipements 
 _Vous trouverez dans cette section des tutos pour des montages à faire soi même._
 
 - [Alimentation autonome solaire pour petit projet électronique](https://lofurol.fr/joomla/electronique/143-alimentation-autonome-de-petits-projets-electroniques) - Guide pour alimenter un microcontrôleur avec une batterie et un panneau solaire.
-- [Faire soi-même](https://faire-ca-soi-meme.fr/) - Plein de hack, projet, tuto, technologie très bien expliqué, pas mal d'articles sur la Zigate.
+- [Faire soi-même](https://faire-ca-soi-meme.fr/) - Des hacks, projets et tuto technologiques très bien expliqués et des articles dédiés à la Zigate.
 
 ## Discussions et entraides
 
