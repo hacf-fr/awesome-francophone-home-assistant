@@ -21,6 +21,7 @@ theme:
   logo: "https://hacf.fr/wp-content/uploads/logo@2x.png"
   features:
     - navigation.tabs
+    - toc.integrate
 
 # Customization
 extra:
