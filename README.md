@@ -18,7 +18,7 @@ Les anciens liens devenus obsolètes sont conservés dans les [archives](archive
 - [Modules tiers utiles pour (ou par) des utilisateurs francophones](#modules-tiers-utiles-pour-ou-par-des-utilisateurs-francophones)
   - [Intégrations Personnalisées (Custom Components)](#intégrations-personnalisées-custom-components)
   - [Cartes Personnalisées pour l'interface Lovelace (Lovelace Custom cards)](#cartes-personnalisées-pour-linterface-lovelace-lovelace-custom-cards)
-- [Faites le vous même](#faites-le-vous-même)
+- [Faites le vous même](#faites-le-vous-même-diy)
 - [Discussions et entraides](#discussions-et-entraides)
   - [HACF: Home Assistant Communauté Francophone](#hacf-home-assistant-communauté-francophone)
   - [Paradis Artificiels](#paradis-artificiels)
@@ -30,7 +30,6 @@ Les anciens liens devenus obsolètes sont conservés dans les [archives](archive
 - [HACF](https://hacf.fr) - Le blog de la communauté francophone avec de nombreux guides et articles en français.
 - [Les Alexiens](https://www.lesalexiens.fr/) - Un blog qui parle d'Alexa, d'object connecté et de domotique avec Home Assistant.
 - [Blog d'Antoine Guilbert](https://www.antoineguilbert.fr/category/domotique/) - Objects connectés et domotique.
-- [Projets DIY](https://projetsdiy.fr) - Plein de guide DIY avec beaucoup d'ESP, d'électronique, des raspberry et de la domotique.
 - [&lt;DEVOTICS/&gt;](https://devotics.fr/) - Blog domotique, objets connectés, nouvelles technologies, développement.
 - [figer](https://www.figer.com/) - Blog de guide et conseil en informatique, réseau et domotique.
 - [Ça Sert À Quoi ?](https://www.ca-sert-a-quoi.com/category/domotique/) - Un Blog de mise en situation des nouvelles technologies avec une section domotique.
@@ -69,12 +68,14 @@ _Home Assitant supporte dès la première installation de nombreux équipements 
 
 - [MétéoFrance](https://github.com/hacf-fr/lovelace-meteofrance-weather-card) - Une carte pour Lovelace vous permettant d'afficher toutes les informations disponibles avec l'intégration officielle Météo France (prévision, pluie à 1 heure, vigilance météo).
 
-## Faites le vous même
+## Faites le vous même (DIY)
 
 _Vous trouverez dans cette section des tutos pour des montages à faire soi même._
 
+- [Projets DIY](https://projetsdiy.fr) - Plein de guide DIY avec beaucoup d'ESP, d'électronique, des raspberry et de la domotique.
 - [Alimentation autonome solaire pour petit projet électronique](https://lofurol.fr/joomla/electronique/143-alimentation-autonome-de-petits-projets-electroniques) - Guide pour alimenter un microcontrôleur avec une batterie et un panneau solaire.
 - [Alimentation autonome solaire pour petit projet életronique](https://lofurol.fr/joomla/electronique/143-alimentation-autonome-de-petits-projets-electroniques)
+- [Faire soi-même](https://faire-ca-soi-meme.fr/) - Des hacks, projets et tuto technologiques très bien expliqués et des articles dédiés à la Zigate.
 
 ## Discussions et entraides
 
