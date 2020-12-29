@@ -11,6 +11,7 @@ Les anciens liens devenus obsolètes sont conservés dans les [archives](archive
 ## Table des matières
 
 <!--lint disable awesome-list-item-->
+- [Table des matières](#table-des-matières)
 - [Blogs](#blogs)
 - [Tutos vidéos](#tutos-vidéos)
 - [Podcasts](#podcasts)
@@ -18,11 +19,11 @@ Les anciens liens devenus obsolètes sont conservés dans les [archives](archive
 - [Modules tiers utiles pour (ou par) des utilisateurs francophones](#modules-tiers-utiles-pour-ou-par-des-utilisateurs-francophones)
   - [Intégrations Personnalisées (Custom Components)](#intégrations-personnalisées-custom-components)
   - [Cartes Personnalisées pour l'interface Lovelace (Lovelace Custom cards)](#cartes-personnalisées-pour-linterface-lovelace-lovelace-custom-cards)
-- [Faites le vous même](#faites-le-vous-même-diy)
+- [Faites le vous même (DIY)](#faites-le-vous-même-diy)
 - [Discussions et entraides](#discussions-et-entraides)
   - [HACF: Home Assistant Communauté Francophone](#hacf-home-assistant-communauté-francophone)
-  - [Paradis Artificiels](#paradis-artificiels)
   - [Autres](#autres)
+- [Contribuer](#contribuer)
 <!--lint enable awesome-list-item-->
 
 ## Blogs
@@ -51,6 +52,7 @@ Les anciens liens devenus obsolètes sont conservés dans les [archives](archive
 _Certains d'entre nous partagent leur configuration pour inspirer les autres. Généralement en anglais les liens suivants vous présentent des configurations commentées en français._
 
 - [Oncleben31](https://github.com/oncleben31/home-assistant-config) - Configuration découpée en plusieurs fichiers et documentée en français et en anglais.
+- [Squale76](https://github.com/Squale76/home-assistant-configuration/tree/main/config) - Configuration découpée en plusieurs fichiers et documentée au maximum en français.
 
 ## Modules tiers utiles pour (ou par) des utilisateurs francophones
 
