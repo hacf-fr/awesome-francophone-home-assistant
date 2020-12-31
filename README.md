@@ -11,7 +11,6 @@ Les anciens liens devenus obsolètes sont conservés dans les [archives](archive
 ## Table des matières
 
 <!--lint disable awesome-list-item-->
-- [Table des matières](#table-des-matières)
 - [Blogs](#blogs)
 - [Tutos vidéos](#tutos-vidéos)
 - [Podcasts](#podcasts)
