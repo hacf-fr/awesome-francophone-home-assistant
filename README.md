@@ -41,6 +41,7 @@ Les anciens liens devenus obsolètes sont conservés dans les [archives](archive
 - [ArminasTV](https://www.youtube.com/channel/UCLoLYGnh66x9cMee-qBi3XQ) - Guides vidéos dont une aide au démarrage sur Home Assistant.
 - [e-2-nomy](https://www.youtube.com/channel/UCaSQ9Wl2KWUvQmTRV26O96Q/) - Des vidéos DIY orrientées maison autonome à base d'ESP et de Home Assistant.
 - [Journal de Thomas](https://www.youtube.com/channel/UCRJE6Yb_R3Xei-QGcy_Qwhw) - Vidéos d'un passionné sur différentes solutions domotique dont les plus récentes traitent de Home Assistant.
+- [DCJona - Domotique & DIY](https://www.youtube.com/channel/UCPRsHkUnQZ4261jzwXT-tdw) - Des tests et guides vidéos autour de Home Assistant, Node Red et autres projets DIY.
 
 ## Podcasts
 
