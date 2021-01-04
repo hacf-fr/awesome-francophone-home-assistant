@@ -18,6 +18,7 @@ Les anciens liens devenus obsolètes sont conservés dans les [archives](archive
 - [Modules tiers utiles pour (ou par) des utilisateurs francophones](#modules-tiers-utiles-pour-ou-par-des-utilisateurs-francophones)
   - [Intégrations Personnalisées (Custom Components)](#intégrations-personnalisées-custom-components)
   - [Cartes Personnalisées pour l'interface Lovelace (Lovelace Custom cards)](#cartes-personnalisées-pour-linterface-lovelace-lovelace-custom-cards)
+  - [Blueprints pour créer des automatisations simplement](#blueprints-pour-créer-des-automatisations-simplement)
 - [Faites le vous même](#faites-le-vous-même-diy)
 - [Discussions et entraides](#discussions-et-entraides)
   - [HACF: Home Assistant Communauté Francophone](#hacf-home-assistant-communauté-francophone)
@@ -67,6 +68,10 @@ _Home Assitant supporte dès la première installation de nombreux équipements 
 ### Cartes Personnalisées pour l'interface Lovelace (Lovelace Custom cards)
 
 - [MétéoFrance](https://github.com/hacf-fr/lovelace-meteofrance-weather-card) - Une carte pour Lovelace vous permettant d'afficher toutes les informations disponibles avec l'intégration officielle Météo France (prévision, pluie à 1 heure, vigilance météo).
+
+### Blueprints pour créer des automatisations simplement
+
+- [Blueprints sur le forum HACF](https://forum.hacf.fr/c/blueprint/94) - Les Blueprints proposés par la communauté francophone.
 
 ## Faites le vous même (DIY)
 
