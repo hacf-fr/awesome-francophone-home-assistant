@@ -18,6 +18,7 @@ Les anciens liens devenus obsolètes sont conservés dans les [archives](archive
 - [Modules tiers utiles pour (ou par) des utilisateurs francophones](#modules-tiers-utiles-pour-ou-par-des-utilisateurs-francophones)
   - [Intégrations Personnalisées (Custom Components)](#intégrations-personnalisées-custom-components)
   - [Cartes Personnalisées pour l'interface Lovelace (Lovelace Custom cards)](#cartes-personnalisées-pour-linterface-lovelace-lovelace-custom-cards)
+  - [Blueprints pour créer des automatisations simplement](#blueprints-pour-créer-des-automatisations-simplement)
 - [Faites le vous même (DIY)](#faites-le-vous-même-diy)
 - [Discussions et entraides](#discussions-et-entraides)
   - [HACF: Home Assistant Communauté Francophone](#hacf-home-assistant-communauté-francophone)
@@ -40,6 +41,7 @@ Les anciens liens devenus obsolètes sont conservés dans les [archives](archive
 - [ArminasTV](https://www.youtube.com/channel/UCLoLYGnh66x9cMee-qBi3XQ) - Guides vidéos dont une aide au démarrage sur Home Assistant.
 - [e-2-nomy](https://www.youtube.com/channel/UCaSQ9Wl2KWUvQmTRV26O96Q/) - Des vidéos DIY orrientées maison autonome à base d'ESP et de Home Assistant.
 - [Journal de Thomas](https://www.youtube.com/channel/UCRJE6Yb_R3Xei-QGcy_Qwhw) - Vidéos d'un passionné sur différentes solutions domotique dont les plus récentes traitent de Home Assistant.
+- [DCJona - Domotique & DIY](https://www.youtube.com/channel/UCPRsHkUnQZ4261jzwXT-tdw) - Des tests et guides vidéos autour de Home Assistant, Node Red et autres projets DIY.
 
 ## Podcasts
 
@@ -50,6 +52,7 @@ Les anciens liens devenus obsolètes sont conservés dans les [archives](archive
 _Certains d'entre nous partagent leur configuration pour inspirer les autres. Généralement en anglais les liens suivants vous présentent des configurations commentées en français._
 
 - [Oncleben31](https://github.com/oncleben31/home-assistant-config) - Configuration découpée en plusieurs fichiers et documentée en français et en anglais.
+- [KaoruKanon](https://github.com/KaoruKanon/homeassistant-config) - Configuration documentée en français avec une interface graphique inspirée de Homekit.
 
 ## Modules tiers utiles pour (ou par) des utilisateurs francophones
 
@@ -61,10 +64,16 @@ _Home Assitant supporte dès la première installation de nombreux équipements 
 - [Livebox Orange](https://github.com/Cyr-ius/hass-livebox-component) - Une integration pour accéder à certaines informations de votre Livebox.
 - [HA-pool_pump](https://github.com/oncleben31/ha-pool_pump) - Un moyen de piloter la pompe de filtration de sa piscine.
 - [prixCarburant](https://github.com/max5962/prixCarburant-home-assistant) - Permet de récupérer les prix du carburant depuis le site gouvernemental français.
+- [apiEnedis](https://github.com/saniho/apiEnedis) - Accéder à vos information de consomation électrique depuis la plateforme Enedis.
 
 ### Cartes Personnalisées pour l'interface Lovelace (Lovelace Custom cards)
 
 - [MétéoFrance](https://github.com/hacf-fr/lovelace-meteofrance-weather-card) - Une carte pour Lovelace vous permettant d'afficher toutes les informations disponibles avec l'intégration officielle Météo France (prévision, pluie à 1 heure, vigilance météo).
+- [Linky](https://github.com/saniho/content-card-linky) - Une carte pour afficher vos informations de consommation électrique via la plateforme Enedis.
+
+### Blueprints pour créer des automatisations simplement
+
+- [Blueprints sur le forum HACF](https://forum.hacf.fr/c/blueprint/94) - Les Blueprints proposés par la communauté francophone.
 
 ## Faites le vous même (DIY)
 
