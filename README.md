@@ -64,10 +64,12 @@ _Home Assitant supporte dès la première installation de nombreux équipements 
 - [Livebox Orange](https://github.com/Cyr-ius/hass-livebox-component) - Une integration pour accéder à certaines informations de votre Livebox.
 - [HA-pool_pump](https://github.com/oncleben31/ha-pool_pump) - Un moyen de piloter la pompe de filtration de sa piscine.
 - [prixCarburant](https://github.com/max5962/prixCarburant-home-assistant) - Permet de récupérer les prix du carburant depuis le site gouvernemental français.
+- [apiEnedis](https://github.com/saniho/apiEnedis) - Accéder à vos information de consomation électrique depuis la plateforme Enedis.
 
 ### Cartes Personnalisées pour l'interface Lovelace (Lovelace Custom cards)
 
 - [MétéoFrance](https://github.com/hacf-fr/lovelace-meteofrance-weather-card) - Une carte pour Lovelace vous permettant d'afficher toutes les informations disponibles avec l'intégration officielle Météo France (prévision, pluie à 1 heure, vigilance météo).
+- [Linky](https://github.com/saniho/content-card-linky) - Une carte pour afficher vos informations de consommation électrique via la plateforme Enedis.
 
 ### Blueprints pour créer des automatisations simplement
 
