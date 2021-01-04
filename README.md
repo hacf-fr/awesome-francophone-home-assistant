@@ -53,6 +53,7 @@ Les anciens liens devenus obsolètes sont conservés dans les [archives](archive
 _Certains d'entre nous partagent leur configuration pour inspirer les autres. Généralement en anglais les liens suivants vous présentent des configurations commentées en français._
 
 - [Oncleben31](https://github.com/oncleben31/home-assistant-config) - Configuration découpée en plusieurs fichiers et documentée en français et en anglais.
+- [KaoruKanon](https://github.com/KaoruKanon/homeassistant-config) - Configuration documentée en français avec une interface graphique inspirée de Homekit.
 
 ## Modules tiers utiles pour (ou par) des utilisateurs francophones
 
