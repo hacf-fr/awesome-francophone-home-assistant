@@ -19,10 +19,9 @@ Les anciens liens devenus obsolètes sont conservés dans les [archives](archive
   - [Intégrations Personnalisées (Custom Components)](#intégrations-personnalisées-custom-components)
   - [Cartes Personnalisées pour l'interface Lovelace (Lovelace Custom cards)](#cartes-personnalisées-pour-linterface-lovelace-lovelace-custom-cards)
   - [Blueprints pour créer des automatisations simplement](#blueprints-pour-créer-des-automatisations-simplement)
-- [Faites le vous même](#faites-le-vous-même-diy)
+- [Faites le vous même (DIY)](#faites-le-vous-même-diy)
 - [Discussions et entraides](#discussions-et-entraides)
   - [HACF: Home Assistant Communauté Francophone](#hacf-home-assistant-communauté-francophone)
-  - [Paradis Artificiels](#paradis-artificiels)
   - [Autres](#autres)
 <!--lint enable awesome-list-item-->
 
