@@ -22,7 +22,6 @@ Les anciens liens devenus obsolètes sont conservés dans les [archives](archive
 - [Discussions et entraides](#discussions-et-entraides)
   - [HACF: Home Assistant Communauté Francophone](#hacf-home-assistant-communauté-francophone)
   - [Autres](#autres)
-- [Contribuer](#contribuer)
 <!--lint enable awesome-list-item-->
 
 ## Blogs
