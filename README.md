@@ -50,7 +50,7 @@ Les anciens liens devenus obsolètes sont conservés dans les [archives](archive
 _Certains d'entre nous partagent leur configuration pour inspirer les autres. Généralement en anglais les liens suivants vous présentent des configurations commentées en français._
 
 - [Oncleben31](https://github.com/oncleben31/home-assistant-config) - Configuration découpée en plusieurs fichiers et documentée en français et en anglais.
-- [Squale76](https://github.com/Squale76/home-assistant-configuration/tree/main/config) - Configuration découpée en plusieurs fichiers et documentée au maximum en français.
+- [Squale76](https://github.com/Squale76/home-assistant-configuration) - Configuration découpée en plusieurs fichiers en français si possible.
 
 ## Modules tiers utiles pour (ou par) des utilisateurs francophones
 
