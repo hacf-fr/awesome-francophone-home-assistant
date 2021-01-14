@@ -46,6 +46,7 @@ Les anciens liens devenus obsolètes sont conservés dans les [archives](archive
 ## Podcasts
 
 - [Tech Café](https://techcafe.fr/category/domotique-podcast-maison-connectee/) - Un podcast domotique généraliste avec une sensibilité Jeedom mais qui s'ouvre à Home Assistant.
+  - [Episode 18 Home Assistant](https://techcafe.fr/domotique-dossier-home-assistant/) - Épisode dédié à la découverte de Home Assistant.
 
 ## Configurations
 
