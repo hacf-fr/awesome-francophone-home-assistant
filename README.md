@@ -75,7 +75,7 @@ _Home Assitant supporte dès la première installation de nombreux équipements 
 
 ### Blueprints pour créer des automatisations simplement
 
-- [Blueprints sur le forum HACF](https://forum.hacf.fr/c/blueprint/94) - Les Blueprints proposés par la communauté francophone.
+- [Blueprints sur le forum HACF](https://forum.hacf.fr/tag/plan-blueprint) - Les Blueprints proposés par la communauté francophone.
 
 ## Faites le vous même (DIY)
 
