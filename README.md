@@ -96,12 +96,12 @@ HACF propose un grand nombre de type de contenu pour fédérer la communauté fr
 
 - [Discord HACF](https://discord.gg/uybmhR)
 - [Forum HACF](https://forum.hacf.fr/)
+- [Groupe HACF (Home Assistant France)](https://www.facebook.com/groups/HomeAssistantFrance/) - Groupe Facebook anciennement Home Assistant France qui s'est joint à nous.
 
 ### Autres
 
 - [Discord Communnauté Domotique & DIY](https://discordapp.com/channels/517999856116039698/517999856116039700/518176946052661248) - Un Discord francophone qui traite de domotique en général et de plusieurs plateformes dont Home Assistant.
 - [Discord des Frères Poulains](https://lfp.yt/discord) - Un Discord bien plus large que la domotique orrienté DIY, mais avec des une section domotique, électronique.
-- [Groupe Home Assistant France](https://www.facebook.com/groups/HomeAssistantFrance/) - Un Groupe Facebook.
 
 ## Contribuer
 
