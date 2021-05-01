@@ -36,7 +36,7 @@ Les anciens liens devenus obsolètes sont conservés dans les [archives](archive
 - [My Canaletto](https://www.canaletto.fr/) - Blog IT et domotique traitant en particulier d'une migration Jeedom vers Home Assistant.
 - [Présentation et guide d'utilisation de deCONZ](https://presentationdeconz.wordpress.com/) - Tutoriel pour la configuration de deCONZ (Passerelle universelle Zigbee).
 - [Blog de remi81](https://domo.rem81.com/) - Bloc note sur differents sujets autour de Home Assistant.
-- [Blog de Yann](https://domotique.yann.me/) - Blog sur divers sujets autour de Home Assistant
+- [Blog de Yann](https://domotique.yann.me/) - Blog sur divers sujets autour de Home Assistant.
 
 ## Tutos vidéos
 
@@ -58,7 +58,7 @@ _Certains d'entre nous partagent leur configuration pour inspirer les autres. G�
 - [Oncleben31](https://github.com/oncleben31/home-assistant-config) - Configuration découpée en plusieurs fichiers et documentée en français et en anglais.
 - [KaoruKanon](https://github.com/KaoruKanon/homeassistant-config) - Configuration documentée en français avec une interface graphique inspirée de Homekit.
 - [Squale76](https://github.com/Squale76/home-assistant-configuration) - Configuration découpée en plusieurs fichiers en français si possible.
-- [Yann.me](https://github.com/yjajkiew/domotique/tree/master/home-assistant/config) - Configuration de Yann du site yann.me
+- [Yann.me](https://github.com/yjajkiew/domotique/tree/master/home-assistant/config) - Configuration de Yann du site yann.me.
 
 ## Modules tiers utiles pour (ou par) des utilisateurs francophones
 
