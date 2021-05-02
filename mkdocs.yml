@@ -15,10 +15,21 @@ theme:
   language: fr
   favicon: images/favicon-32x32.png
   palette:
-    scheme: preference
-    primary: white
-    accent: red
-  logo: "https://hacf.fr/wp-content/uploads/logo@2x.png"
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: red
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Activer le mode sombre
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: white
+      accent: red
+      toggle:
+        icon: material/toggle-switch
+        name: Activer le mode clair
+  logo: "https://hacf.fr/wp-content/uploads/Assets/HACF-Logo.svg"
   features:
     - navigation.tabs
     - toc.integrate
