@@ -58,7 +58,7 @@ extra:
     - icon: fontawesome/brands/youtube
       link: "https://www.youtube.com/channel/UCx4cKKRf1GW1AVQhtNU_3iw"
       name: "HACF sur YouTube"
-    - icon: octicons/code-review-24:
+    - icon: octicons/code-review-24
       link: https://developpeurs.hacf.fr
       name: "Guide du développeur Home Assistant"
 
