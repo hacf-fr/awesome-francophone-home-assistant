@@ -100,6 +100,7 @@ HACF propose un grand nombre de type de contenu pour fédérer la communauté fr
 - [Discord HACF](https://discord.gg/uybmhR)
 - [Forum HACF](https://forum.hacf.fr/)
 - [Groupe HACF (Home Assistant France)](https://www.facebook.com/groups/HomeAssistantFrance/) - Groupe Facebook anciennement Home Assistant France qui s'est joint à nous.
+- [Documentation pour les développeurs](https://developpeurs.hacf.fr) - Une documentation collaborative en français pour ceux qui veulent contribuer au développement de Home Assistant ou des intégration personnalisées.
 
 ### Autres
 
