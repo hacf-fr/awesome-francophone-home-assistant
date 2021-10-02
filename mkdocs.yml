@@ -53,7 +53,7 @@ extra:
       link: "https://twitter.com/hacf_fr"
       name: "HACF sur Twitter"
     - icon: fontawesome/brands/facebook
-      link: "https://www.facebook.com/hacf.fr"
+      link: "https://www.facebook.com/groups/HomeAssistantFrance/"
       name: "HACF sur Facebook"
     - icon: fontawesome/brands/youtube
       link: "https://www.youtube.com/channel/UCx4cKKRf1GW1AVQhtNU_3iw"
