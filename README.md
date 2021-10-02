@@ -59,7 +59,7 @@ _Certains d'entre nous partagent leur configuration pour inspirer les autres. G�
 - [KaoruKanon](https://github.com/KaoruKanon/homeassistant-config) - Configuration documentée en français avec une interface graphique inspirée de Homekit.
 - [Squale76](https://github.com/Squale76/home-assistant-configuration) - Configuration découpée en plusieurs fichiers en français si possible.
 - [Yann.me](https://github.com/yjajkiew/domotique/tree/master/home-assistant/config) - Configuration de Yann du site yann.me.
-- [JournalDeThomas](https://github.com/journaldethomas/home-assistant-config) - Configuration de Thomas de la chaine Youtube Le Journal De Thomas.
+- [JournalDeThomas](https://github.com/journaldethomas/home-assistant-config) - Configuration de Thomas de la chaine YouTube Le Journal De Thomas.
 
 ## Modules tiers utiles pour (ou par) des utilisateurs francophones
 
