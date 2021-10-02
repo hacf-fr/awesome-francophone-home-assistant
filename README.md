@@ -37,7 +37,7 @@ Les anciens liens devenus obsolètes sont conservés dans les [archives](archive
 - [Présentation et guide d'utilisation de deCONZ](https://presentationdeconz.wordpress.com/) - Tutoriel pour la configuration de deCONZ (Passerelle universelle Zigbee).
 - [Blog de remi81](https://domo.rem81.com/) - Bloc note sur differents sujets autour de Home Assistant.
 - [Blog de Yann](https://domotique.yann.me/) - Blog sur divers sujets autour de Home Assistant.
-- [Canaletto & friends](https://ghost.canaletto.fr) - Blog domotique, Home-Assistant, Home Lab et DIY
+- [Canaletto & friends](https://ghost.canaletto.fr) - Blog domotique, Home-Assistant, Home Lab et DIY.
 
 ## Tutos vidéos
 
