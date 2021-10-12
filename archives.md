@@ -31,7 +31,7 @@ _Home Assitant supporte dès la première installation de nombreux équipements 
 officielle est devenue elle aussi obsolète.
 
 
-# Discussions et entraides
+## Discussions et entraides
 
 _Vous trouverez dans cette section des moyens pour discuter entre francophones sur Discord, Facebook ou sur des forums._
 
