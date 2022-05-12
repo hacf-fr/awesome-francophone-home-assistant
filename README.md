@@ -39,6 +39,7 @@ Les anciens liens devenus obsolètes sont conservés dans les [archives](archive
 - [Blog de Yann](https://domotique.yann.me/) - Blog sur divers sujets autour de Home Assistant.
 - [Canaletto & friends](https://ghost.canaletto.fr) - Blog domotique, Home-Assistant, Home Lab et DIY.
 - [Au vieux codeur](https://lbdx.github.io) - Blog qui donne des exemples d'implémentation d'automatisation avec Home Assistant.
+- [OmiTech](https://omitech.fr/) - Blog principalement axé sur la domotique avec un peu d'IT
 
 ## Tutos vidéos
 
