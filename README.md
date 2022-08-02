@@ -48,6 +48,7 @@ Les anciens liens devenus obsolètes sont conservés dans les [archives](archive
 - [Journal de Thomas](https://www.youtube.com/channel/UCRJE6Yb_R3Xei-QGcy_Qwhw) - Vidéos d'un passionné sur différentes solutions domotique dont les plus récentes traitent de Home Assistant.
 - [DCJona - Domotique & DIY](https://www.youtube.com/channel/UCPRsHkUnQZ4261jzwXT-tdw) - Des tests et guides vidéos autour de Home Assistant, Node Red et autres projets DIY.
 - [La Maison Bleue](https://www.youtube.com/channel/UCOfuwHAgQnK8vORbGBSA28Q) - Nouvelle chaîne sur Home Assistant et Node-Red.
+- [Horizon Domotique](https://www.youtube.com/channel/UCblvKDzZ6YfG5EdyqnvWpng) - La domotique pas à pas à l'aide de Home Assistant
 
 ## Podcasts
 
