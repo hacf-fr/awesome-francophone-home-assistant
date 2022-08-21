@@ -9,7 +9,7 @@ jobs:
     name: Deploy with MKDocs
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2.3.5
+      - uses: actions/checkout@v3.0.2
       - uses: actions/setup-python@v2.2.2
         with:
           python-version: "3.8"
