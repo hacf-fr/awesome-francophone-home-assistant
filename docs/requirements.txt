@@ -1,4 +1,4 @@
 mkdocs==1.3.1
 mkdocs-material==8.4.0
-mkdocs-simple-plugin==1.1.1
+mkdocs-simple-plugin==2.2.0
 mdx_truly_sane_lists==1.3
