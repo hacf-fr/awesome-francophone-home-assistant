@@ -1,3 +1,9 @@
+# Ce repo n'est plus à jour, ni maintenu allez voir dans le portail HACF : https://www.hacf.fr/awesome/
+
+-------------------------------------
+-------------------------------------
+-------------------------------------
+
 <!--lint disable awesome-toc-->
 # Awesome Francophone Home Assistant [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
